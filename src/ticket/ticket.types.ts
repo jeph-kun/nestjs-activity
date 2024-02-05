@@ -1,0 +1,1 @@
+export type status = "PENDING" | "APPROVED" | "REJECTED" ;
